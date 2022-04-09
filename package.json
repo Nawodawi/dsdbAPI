@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nuwan94/setu-db-api.git"
+        "url": "git+https://github.com/Nawodawi/dsdbAPI.git"
     },
     "keywords": [
         "nodejs",
@@ -18,10 +18,10 @@
         "azure-mysql",
         "azure"
     ],
-    "author": "nuwan94",
+    "author": "Nawodawi",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/nuwan94/setu-db-api/issues"
+        "url": "https://github.com/Nawodawi/dsdbAPI/issues"
     },
     "dependencies": {
         "body-parser": "^1.19.0",
